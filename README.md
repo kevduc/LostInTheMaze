@@ -8,8 +8,8 @@
 
 ## Screenshots
 <div style="display:flex">
-  <a href="https://github.com/kevduc/LostInTheMaze/blob/4ea23d274dc31dec107716e0471a6786f3449917/Screenshots/title-screen.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/title-screen-Small.png" /></a>
+  <a href="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/title-screen.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/title-screen-Small.png" /></a>
   <a href="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/tutorial-door.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/tutorial-door-Small.png" /></a>
-  <a href="https://github.com/kevduc/LostInTheMaze/blob/4ea23d274dc31dec107716e0471a6786f3449917/Screenshots/arrow-shooter.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/arrow-shooter-Small.png" /></a>
-  <a href="https://github.com/kevduc/LostInTheMaze/blob/4ea23d274dc31dec107716e0471a6786f3449917/Screenshots/tutorial-skull.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/tutorial-skull-Small.png" /></a>
+  <a href="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/arrow-shooter.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/arrow-shooter-Small.png" /></a>
+  <a href="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/tutorial-skull.png"><img width="45%" src="https://github.com/kevduc/LostInTheMaze/raw/main/Screenshots/tutorial-skull-Small.png" /></a>
 </div>
